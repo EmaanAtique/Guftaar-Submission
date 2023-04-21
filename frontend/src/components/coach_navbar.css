@@ -1,0 +1,98 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 8%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.06);
+    z-index: 999; /* ensure navbar is on top of other elements */
+  }
+  
+  .navbar-img-home2{
+    width: 60%;
+    height: auto;
+    position: relative;
+    left: 70px;
+    cursor: pointer;
+  }
+  
+  .nav-item2{
+    position: relative;
+    left: 100px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: right;
+    letter-spacing: 0.03em;
+    color: rgba(76, 83, 156, 0.49);
+    backdrop-filter: blur(16.4787px);
+  }
+  
+  .nav-item3{
+    position: relative;
+    left: 100px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: right;
+    letter-spacing: 0.03em;
+    color: rgba(76, 83, 156, 0.49);
+    backdrop-filter: blur(16.4787px);
+  }
+  .nav-item4{
+    position: relative;
+    left: 100px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: right;
+    letter-spacing: 0.03em;
+    color: rgba(76, 83, 156, 0.49);
+    backdrop-filter: blur(16.4787px);
+  }
+  .nav-item5{
+    position: relative;
+    left: 100px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: right;
+    letter-spacing: 0.03em;
+    color: rgba(76, 83, 156, 0.49);
+    backdrop-filter: blur(16.4787px);
+  }
+  nav .nav-item2 .nav-anchor ,nav .nav-item3 .nav-anchor, nav .nav-item4 .nav-anchor, nav .nav-item5 .nav-anchor{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgba(76, 83, 156, 0.49);
+  }
+  
+  .nav-item2 .nav-anchor:visited, .nav-item3 .nav-anchor:visited, .nav-item4 .nav-anchor:visited, .nav-item5 .nav-anchor:visited {
+    color: inherit !important;
+  }
+  
+  .nav-item2 .nav-anchor:hover,  .nav-item3 .nav-anchor:hover,  .nav-item4 .nav-anchor:hover,  .nav-item5 .nav-anchor:hover {
+    color: #191D63;
+  }
+  
+  
+  
+   
+   
+  
+  

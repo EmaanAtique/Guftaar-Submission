@@ -1,0 +1,165 @@
+.main-container-view-coaches{
+    /* border: solid; */
+    height: 320vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/bg.png");
+    background-size:cover;
+    background-position: top left;
+    background-repeat:round;
+    text-align:center; 
+
+    /* padding: 40px;
+    padding-bottom: 250px; */
+}
+
+.view-coaches-heading{
+    color: #4d5399;
+    /* border: solid; */
+}
+
+
+
+
+.container-view-coaches{
+    /* border: solid; */
+    width: 150vh;
+    /* border: solid; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.coach-card-view-coaches{
+   flex-basis: 35%; 
+   margin-bottom: 50px;
+}
+
+.card-container-view-coaches{
+    /* border: solid; */
+    width: 70vh;
+    height: 35vh;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    border-radius: 28.9717px;
+    filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.2));
+
+    padding: 30px;
+    border: solid 2px transparent;
+}
+
+.card-container-view-coaches:hover{
+    border-color: #4d5399; 
+}
+
+
+.img-container-view-coaches {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid; */
+
+    width: 40%;
+    border-radius: 20px;
+}
+
+.img-view-coaches{
+    /* width: 50%;
+    height: 30%; */
+    width: 100px;
+    height: auto;
+    /* height: auto; */
+}
+
+.content-container-view-coaches{
+    width: 70%;
+    /* border-radius: 20px; */
+    display: flex;
+    flex-direction: column;
+    /* border: solid; */
+}
+
+.coach-card-name-view-coaches{
+    /* border: solid; */
+    height: 33%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 0.03em;
+    color: black;
+    text-align: justify;
+}
+
+.coach-email-view-coaches{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-bottom: 17px;
+    font-weight: 400;
+}
+
+
+.highlight-div-details{
+    height: 33%;
+    background-color: #efefef;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    padding: 15px;
+}
+
+
+.highlighted-flex-wrapper{
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.highlighted-div-content{
+    /* margin-left: 12.5px; */
+    font-weight: 600;
+    color: #5d5a5a;
+    margin-bottom: 10px;
+}
+
+.highlighted-div-content-2{
+    /* margin-left: 12.5px; */
+    font-weight: 400;
+    color: black;
+}
+
+.coach-card-btn1{
+    width: 100%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    letter-spacing: -0.239405px;
+    color: #FFFFFF;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #5A54B1;
+    padding: 2.2% 20%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.coach-card-btn1:hover {
+    background-color: #ffffff;
+    border: solid;
+    color: #5A54B1;
+    border-color: #5A54B1;
+}
+
+
+

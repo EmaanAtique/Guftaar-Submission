@@ -1,0 +1,89 @@
+.quickBack{
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.paragraphBack{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 420px;
+    top: 270px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 25px rgba(190, 188, 213, 0.53);
+    border-radius: 16px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    }
+
+.shaded-text {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 30px;
+    line-height: 30px;
+    color: #000000;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    word-spacing: 0.1cm;
+}
+    
+    .shaded-word {
+    display: inline-block;
+    transition-delay: 0s;
+    transition-duration: 0.5s;
+    }
+    
+    .highlighted {
+    background-color:rgba(186, 189, 231, 0.912);
+    border-radius: 0.1em;
+    }
+
+
+    .please2{
+    position: absolute;
+    width: 855.14px;
+    height: 138px;
+    left: 280.91px;
+    top: 130px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 69px;
+    text-align: center;
+    color: #191D63;
+}
+
+.titlequestion2{
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 650px;
+    top: 90px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+    }
+
+.gobackcross2{
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 1200px;
+    top: 105px;
+    cursor: pointer;
+    }

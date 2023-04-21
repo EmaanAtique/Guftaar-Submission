@@ -1,0 +1,144 @@
+.container{
+    position: absolute;
+background-color: transparent;
+margin-top: 185px;
+left: 120px;
+width: 600px;
+height: 275px;
+overflow-x: scroll;
+}
+
+.clientbox1{
+    position: absolute;
+    width: 265px;
+    height: 255px;
+
+    background: #CBEFEE;
+    border-radius: 10px;
+}
+.circularbox1{
+    position: absolute;
+    width: 149px;
+    height: 149px;
+    left: 55px;
+    top: 45px;
+    border-radius: 50%;
+    background: rgba(70, 159, 163, 0.37);
+}
+.proficon1{
+    left: 60px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+.clienttext1{
+    position: absolute;
+    left: 10.42%;
+    right: 72.91%;
+    top: 100.67%;
+    bottom: 11.04%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24.4248px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #469FA3;
+
+}
+.clientbox2{
+    position: absolute;
+    width: 265px;
+    height: 255px;
+    left: 300px;
+    margin-right: 500px;
+
+    background: #CBEFEE;
+    border-radius: 10px;
+}
+.circularbox2{
+    position: absolute;
+    width: 149px;
+    height: 149px;
+    left: 55px;
+    top: 40px;
+    border-radius: 50%;
+    background: rgba(70, 159, 163, 0.37);
+}
+.proficon2{
+    left: 60px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+.clienttext2{
+    position: absolute;
+    left: 4.42%;
+    right: 72.91%;
+    top: 100.67%;
+    bottom: 11.04%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24.4248px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #469FA3;
+
+}
+.clientbox3{
+    position: absolute;
+    width: 265px;
+    height: 255px;
+    left: 300px;
+
+    background: #CBEFEE;
+    border-radius: 10px;
+}
+.circularbox3{
+    position: absolute;
+    width: 149px;
+    height: 149px;
+    left:58px;
+    top: 40px;
+    border-radius: 50%;
+    background: rgba(70, 159, 163, 0.37);
+}
+.proficon3{
+    left: 60px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+.clienttext3{
+    position: absolute;
+    top: 100.67%;
+    bottom: 11.04%;
+    left: 1px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24.4248px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #469FA3;
+
+}

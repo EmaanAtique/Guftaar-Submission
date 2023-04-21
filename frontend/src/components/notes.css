@@ -1,0 +1,47 @@
+.note{
+    padding: 2%;
+    height: 280px;
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffff;
+    filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2));
+    /* filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1)); */
+    border-radius: 30px
+}
+
+
+.note_text{
+    height: 100%;
+    width: 100%;
+    resize:none;
+    background-color: transparent;
+    font-size:1rem;
+    border:none;
+    font-family: "League Spartan";
+
+}
+
+.note-container{
+    height: 100%;
+    
+}
+
+.note-container-notes{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.notesA{
+    height: 100vh;
+    padding: 30px;
+    margin-top: 4%;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  

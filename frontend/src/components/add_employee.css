@@ -1,0 +1,114 @@
+.employeeBack{
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+}
+
+.adminBack{
+position: absolute;
+width: 380px;
+height: 350px;
+left: 320px;
+top: 330px;
+background: #FFFFFF;
+border-radius: 28.9717px;
+filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+}
+
+.coachBack{
+position: absolute;
+width: 380px;
+height: 350px;
+left: 780px;
+top: 330px;
+background: #FFFFFF;
+border-radius: 28.9717px;
+filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+}
+
+.titlequestion{
+position: absolute;
+width: 168px;
+height: 28px;
+left: 650px;
+top: 70px;
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: #000000;
+}
+
+.whichquestion{
+position: absolute;
+width: 855.14px;
+height: 138px;
+left: 339.91px;
+top: 100.48px;
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 58.7778px;
+line-height: 69px;
+text-align: center;
+color: #191D63;
+}
+
+.categorya{
+position: relative;
+width: 367.94px;
+height: 87px;
+top:71%;
+left: 5%;
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 87px;
+text-align: center;
+color: #191D63;
+}
+
+.categoryc{
+    position: relative;
+    width: 367.94px;
+    height: 87px;
+    bottom: 25px;
+    left: 5%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 87px;
+    text-align: center;
+    color: #191D63;
+    }
+
+.gobackcross{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1200px;
+top: 100px;
+cursor: pointer;
+}
+
+.adminpic{
+width: 240px;
+position: relative;
+bottom: 95px;
+}
+
+.coachpic{
+width: 310px;
+position: relative;
+top: 25px;
+right: 20px;
+}

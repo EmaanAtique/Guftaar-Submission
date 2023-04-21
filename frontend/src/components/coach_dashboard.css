@@ -1,0 +1,343 @@
+.admin-dashboard-bg{
+    background-image: url("../images/bg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align:center; 
+    display:flex;
+    align-items: center; 
+    justify-content: center; 
+    padding: 550px;
+    padding-bottom: 250px;
+}
+.welcome-heading{
+    position: absolute;
+    left: 8.32%;
+    top: 12.43%;
+    bottom: 80.61%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    letter-spacing: 0.03em;
+
+    color: #4C539C;
+
+}
+.second-heading{
+    position: absolute;
+    left: 9%;
+    top: 20.43%;
+    bottom: 80.61%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 32px;
+    letter-spacing: 0.03em;
+
+    color: #71A7F1;
+
+}
+.meetingbox1{
+    position: absolute;
+    width: 604px;
+    height: 95px;
+    left: 121px;
+    top: 205px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 8px 25px rgba(113, 167, 241, 0.25);
+    border-radius: 41px;
+}
+.meetingname1{
+    position: absolute;
+    left: 20.63%;
+    right: 58.64%;
+    top: 32.88%;
+    bottom: 63.17%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #71A7F1;
+
+    backdrop-filter: blur(16.4787px);
+}
+.phoneicon1{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 48px;
+    top: 22px;
+
+}
+.meetingstext1{
+    position: absolute;
+    left: 6.16%;
+    right: 86.39%;
+    top: 70.14%;
+    bottom: 61.71%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 23px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.03em;
+
+    color: rgba(113, 167, 241, 0.25);
+
+    backdrop-filter: blur(16.4787px);
+
+}
+.time1{
+    position: absolute;
+    left: 380px;
+    top: 18px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+    background-color: #71A7F1;
+    border-radius: 7px;
+    padding: 12px;
+    margin: 8px;
+}
+.time2{
+    position: absolute;
+    left: 445px;
+    top: 11px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #71A7F1;
+}
+.time3{
+    position: absolute;
+    left: 450px;
+    top: 18px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+    background-color: #71A7F1;
+    border-radius: 7px;
+    padding: 12px;
+    margin: 8px;
+}
+.meetingbox2{
+    position: absolute;
+    width: 604px;
+    height: 95px;
+    left: 121px;
+    top: 330px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 8px 25px rgba(113, 167, 241, 0.25);
+    border-radius: 41px;
+}
+.meetingname2{
+    position: absolute;
+    left: 20.63%;
+    right: 58.64%;
+    top: 32.88%;
+    bottom: 63.17%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #71A7F1;
+
+    backdrop-filter: blur(16.4787px);
+}
+.phoneicon2{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 48px;
+    top: 22px;
+
+}
+.meetingstext2{
+    position: absolute;
+    left: 6.16%;
+    right: 86.39%;
+    top: 70.14%;
+    bottom: 61.71%;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 23px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.03em;
+
+    color: rgba(113, 167, 241, 0.25);
+
+    backdrop-filter: blur(16.4787px);
+
+}
+.time4{
+    position: absolute;
+    left: 380px;
+    top: 18px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background-color: #71A7F1;
+    border-radius: 7px;
+    padding: 12px;
+    margin: 8px;
+}
+.time5{
+    position: absolute;
+    left: 445px;
+    top: 10px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #71A7F1;
+}
+.time6{
+    position: absolute;
+    left: 450px;
+    top: 18px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+    background-color: #71A7F1;
+    border-radius: 7px;
+    padding: 12px;
+    margin: 8px;
+}
+.viewallbutton{
+    position: absolute;
+    left: 500px;
+    bottom:235px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    text-underline-offset: 0.3em; 
+    cursor: pointer;
+
+    color: #71A7F1;
+
+}
+.third-heading{
+    position: absolute;
+    left: 9%;
+    top: 57.85%;
+    bottom: 36.19%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: 0.03em;
+
+    color: #40868E;
+
+}
+.infoicon{
+    position: absolute;
+    left: 80px;
+    cursor: pointer;
+    background-color: transparent;
+
+    border: none;
+}
+.addnotesbutton{
+    position: absolute;
+    left: 575px;
+    bottom: 295px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    text-underline-offset: 0.3em; 
+    cursor: pointer;
+
+    color: #40868E;
+}
+  

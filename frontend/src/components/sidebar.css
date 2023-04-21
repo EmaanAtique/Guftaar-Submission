@@ -1,0 +1,59 @@
+.sidebar {
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+  .left-sidebar-img{
+    /* position: relative; */
+    width: 20vh;
+    /* position: fixed; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .right-sidebar-img{
+    width: 50vh;
+    
+  }
+  
+  .sidebar img {
+    width: 70px;
+    height: 70px;
+    
+    cursor: pointer;
+    display: inline !important;
+    margin-left: 10px;
+    padding: 10px;
+    filter: invert(30%) sepia(27%) saturate(1567%) hue-rotate(200deg) brightness(94%) contrast(82%);
+
+
+
+  }
+  
+  .sidebar_list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 0;
+    transition: 300ms;
+  }
+  
+  .sidebar_list_active {
+    height: 300px;
+  }
+  
+  .sidebar_list_item {
+    border-radius: 50%;
+    height: 24px;
+    width: 24px;
+    list-style: none;
+  }
+
+  #note-head{
+    font-size:60px;
+    font-weight: 600;
+    
+  }

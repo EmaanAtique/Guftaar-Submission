@@ -1,0 +1,10 @@
+.client-bg {
+    background-color: #f8f8f8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,113 @@
+.dailyBack{
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.syllableBack{
+position: absolute;
+width: 350px;
+height: 310px;
+left: 130px;
+top: 317px;
+background: #FFFFFF;
+border-radius: 20px;
+filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+cursor:pointer;
+}
+
+.breathingBack{
+    position: absolute;
+    width: 350px;
+    height: 310px;
+    left: 550px;
+    top: 317px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+    cursor: pointer;
+    }
+
+    .linkBack{
+        position: absolute;
+        width: 350px;
+        height: 310px;
+        left: 970px;
+        top: 317px;
+        background: #FFFFFF;
+        border-radius: 20px;
+        filter: drop-shadow(0px 4px 25px rgba(90, 84, 177, 0.1));
+        cursor: pointer;
+        }
+
+.syllablepic{
+    position: absolute;
+    left: 18px;
+    top: 70px;
+    width: 300px;
+}
+
+.breathingpic{
+    position: absolute;
+    left: 45px;
+    top: 47px;
+    width: 250px;
+}
+
+.linkpic{
+    position: absolute;
+    left: 32px;
+    top: 65px;
+    width: 310px;
+}
+
+.categorysc{
+    position: relative;
+    width: 367.94px;
+    height: 87px;
+    top:68%;
+    right: 6%;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 87px;
+    text-align: center;
+    color: #191D63;
+    }
+
+    .categoryll{
+        position: relative;
+        width: 367.94px;
+        height: 87px;
+        top:68%;
+        right: 1%;
+        font-family: 'League Spartan';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 23px;
+        line-height: 87px;
+        text-align: center;
+        color: #191D63;
+        }
+
+        .categorybe{
+            position: relative;
+            width: 367.94px;
+            height: 87px;
+            top:68%;
+            right: 1%;
+            font-family: 'League Spartan';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 23px;
+            line-height: 87px;
+            text-align: center;
+            color: #191D63;
+            
+            }

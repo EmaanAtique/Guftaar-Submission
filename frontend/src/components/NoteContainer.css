@@ -1,0 +1,25 @@
+.note-container {
+    height: 100%;
+    display: inline;
+  }
+  
+  .note-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .note-container_notes {
+    height: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    overflow-y: scroll;
+  }
+
+  #nonep{
+    font-family: "League Spartan";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    color: #4D4D4D;
+  }

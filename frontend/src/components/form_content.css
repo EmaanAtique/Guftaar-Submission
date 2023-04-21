@@ -1,0 +1,270 @@
+.client-bg {
+    background-color: #f8f8f8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align:center;
+    display:flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.form-content, .register-form, .login-form{
+    display:flex;
+    flex-direction: column;
+    /* min-height: 100vh;
+    align-items: center;
+    justify-content: center; */
+  
+}
+
+.login-form{
+    position: absolute;
+    top: 30%;
+    padding-left: 5%;
+}
+
+.register-form{
+    width: 40%;
+    height: auto;
+    /* position: relative; */
+    /* padding-left: 40%;
+    padding-top: 10%; */
+}
+
+#reg{
+    width: 50%;
+    height: auto;
+    /* width: 55vw;  */
+    position: relative;
+    padding-left: 150%;
+    padding-top: 50%;
+    display: inline;
+
+}
+
+#login{
+    width: 90%;
+    height: auto;
+    position: relative;
+    padding-left: 40%;
+    padding-top: 10%;
+
+}
+
+
+.form-content{
+    background-color: #ffff;
+    box-shadow: 0px 8.26358px 21.2492px rgba(0, 0, 0, 0.127);
+    padding: 2rem;
+    border: none;
+    border-radius: 10px;
+    margin: 0.5rem; 
+
+}
+
+.form-content-login{
+    background-color: #ffff;
+    box-shadow: 0px 8.26358px 21.2492px rgba(0, 0, 0, 0.127);
+    padding: 2rem;
+    border: none;
+    border-radius: 10px;
+    margin: 0.5rem; 
+    position: relative;
+    top: 0%;
+    align-items: top;
+    height: 450px;
+    width:40%;
+    padding-top: 5%;
+
+    
+}
+
+
+label{
+    text-align: left;
+    padding: 0.25rem 0;
+}  
+
+/* input{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-color: #1d1d1d68;
+    border-width: 1px;
+    border-radius: 10px;
+    max-width: 500%;
+
+} */
+
+.form-button{
+    background: none;
+    color: #4d5399;
+    text-decoration-line: underline;
+    position: center;
+    position: bottom;
+    border:none;
+    font-family: 'League Spartan';
+    margin-top:4%;
+    font-size:medium;
+    text-align: center;
+
+
+}
+
+.form-button:hover{
+    background: none;
+    color: #4d5399;
+
+}
+
+.form-buttonl{
+    background: none;
+    color: #4d5399;
+    text-decoration-line: underline;
+    position: center;
+    margin-top:13%;
+    border:none;
+    font-family: 'League Spartan';
+    font-size:medium;
+
+
+}
+
+.form-buttonl:hover{
+    background: none;
+    color: #4d5399;
+}
+
+.buttonL{
+    border:none;
+    background-color:#4d539957;
+    padding: 20px;
+    border-radius: 10px;
+    cursor:pointer;
+    margin-top: 15px;
+    font-family: "League Spartan";
+    font-size: medium;
+
+}
+
+.buttonL:hover{
+    background-color:#4d5399;
+    color: whitesmoke;
+
+}
+
+
+
+.input{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-style: solid;
+    border-color: #1d1d1d68;
+    border-width: 1px;
+    border-radius: 10px;
+    max-width: 500%;
+
+}
+
+.error-control{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-color: #e30909e6;
+    border-width: 2px;
+    border-radius: 10px;
+    max-width: 500%;
+    border-style: solid; 
+    
+}
+
+.error-control-r{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-color: #e30909e6;
+    border-width: 2px;
+    border-radius: 10px;
+    min-width: 100%;
+    border-style: solid; 
+}
+
+#error-text{
+    text-align: left;
+    color: crimson;
+    /* padding-bottom: 10%; */
+}
+
+.et{
+        text-align: left;
+        color: crimson;
+        /* padding-bottom: 10%; */
+    }
+
+.main-container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+    box-shadow: 0px 8.26358px 21.2492px rgba(0, 0, 0, 0.127);
+    padding: 2rem;
+    border: none;
+    border-radius: 10px;
+    margin: 0.5rem; 
+}
+
+.img-container{
+    flex:1; 
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container{
+    padding-left: 50px;
+    flex:1; 
+    justify-content: center;
+    align-items: center;
+}
+
+.right-side-container{
+    flex:1; 
+    padding-left: 50px; 
+}
+
+.reg-img{
+    width: 80%;
+    height: auto;
+}
+
+.input-field{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-color: #1d1d1d68;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    min-width: 100%;
+}
+
+.reg-btn{
+    border:none;
+    background-color:#4d539957;
+    padding: 20px;
+    border-radius: 10px;
+    cursor:pointer;
+    font:LeagueSpartan;
+    margin-top: 15px;
+    width: 107.5%; 
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: auto;
+}
+
+.welcome-heading {
+    margin-bottom: 50px;
+}
+

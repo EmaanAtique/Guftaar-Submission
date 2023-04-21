@@ -1,0 +1,25 @@
+.outer{
+    margin: 20px;
+    position: absolute;
+    top: 70px;
+    /* right:10px; */
+    width: 600px;
+    left:800px;
+}
+
+.calendar{
+    /* flex: 1 1 100%; */
+    width: 530px;
+}
+
+.pleaselol{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.03em;
+    color: #4C539C;
+    right:50px;
+    position: relative;
+
+}
